@@ -60,11 +60,9 @@ To list all the stored pizza
 **Example Response**
 To create a regular pizza and a square pizza
 
-* GET : `http://localhost//:8000/search/<search variable like small or regular>
+* GET : `http://localhost//:8000/search/<search variable like small or regular>`
 
 To filter the pizza based on size, type
-  ```
-`Do replace the <JWT> in the above request with the token you have acquired.`
 
 ```json
 [
