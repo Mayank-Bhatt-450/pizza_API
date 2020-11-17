@@ -19,7 +19,7 @@ Built with (but not limited to) :
 
 ## Setup
 
-1. `git clone `
+1. `git clone gh repo clone Mayank-Bhatt-450/pizza_API`
 2. `cd `
 3. `pip install -r requirements.txt` 
    _or place virtual environment and then install_
