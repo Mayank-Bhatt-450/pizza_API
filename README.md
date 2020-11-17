@@ -80,5 +80,3 @@ To delete any of the listed pizza
 To update any of the listed pizza
 * PUT: `http://localhost//:8000/<id>`
 
-## License
-MIT
