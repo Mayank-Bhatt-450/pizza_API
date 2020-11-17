@@ -19,8 +19,8 @@ Built with (but not limited to) :
 
 ## Setup
 
-1. `git clone gh repo clone Mayank-Bhatt-450/pizza_API`
-2. `cd `
+1. `gh repo clone Mayank-Bhatt-450/pizza_API`
+2. `cd pizza_API`
 3. `pip install -r requirements.txt` 
    _or place virtual environment and then install_
 4. `manage.py runserver`
