@@ -16,7 +16,9 @@ Built with (but not limited to) :
    * [django](https://www.djangoproject.com/)
    * [djangorestframework](https://www.django-rest-framework.org/)
    
-
+```
+You can run it on Browser or PostMan 
+```
 
 ## Setup
 
